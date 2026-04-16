@@ -15,7 +15,7 @@
         "slide-2": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/d7b80fa3-d712-4a55-8cdd-ba89aa4ff89c.__CR0_0_970_600_PT0_SX970_V1.jpg",
+            "image": "shopify://shop_images/1775992806_IMG_3206_2.png",
             "image_position": "center center",
             "text_box_position": "bottom-right",
             "subheading": "",
@@ -58,83 +58,6 @@
         "padding_bottom": 36
       }
     },
-    "featured_product_RCYCaB": {
-      "type": "featured-product",
-      "blocks": {
-        "title_7PbUaC": {
-          "type": "title",
-          "settings": {
-            "title_size": "h2",
-            "title_tag": "h2",
-            "show_price": false,
-            "price_size": "medium"
-          }
-        },
-        "rating_AN8Hkq": {
-          "type": "rating",
-          "settings": {}
-        },
-        "price_7c3cKU": {
-          "type": "price",
-          "settings": {
-            "price_size": "medium",
-            "show_badges": true,
-            "sale_badge_basis": "percentage"
-          }
-        },
-        "custom_liquid_9wDUPc": {
-          "type": "custom_liquid",
-          "settings": {
-            "custom_liquid": "<div style=\"padding: 12px; text-align: left; background-color: #f9f9f9; font-size: 15px; border-radius: 12px; margin-top: 10px; margin-bottom: 10px; line-height: 1.6;\">\n\n<span style=\"font-weight: bold;\">🧖‍♀️ Deep Pore Cleansing</span> – Effectively removes dirt, oil, and impurities from deep within pores for a clearer complexion.<br><br>\n\n<span style=\"font-weight: bold;\">✨ Blackhead Removal</span> – Helps lift away stubborn blackheads and unclog pores for visibly smoother skin.<br><br>\n\n<span style=\"font-weight: bold;\">🌿 Oil Control & Skin Balance</span> – Reduces excess oil while maintaining your skin’s natural balance.<br><br>\n\n<span style=\"font-weight: bold;\">💖 Smooth & Refined Texture</span> – Improves skin texture and minimizes the appearance of pores for a soft, radiant finish.\n\n</div>"
-          }
-        },
-        "variant_picker_txHV9a": {
-          "type": "variant_picker",
-          "settings": {
-            "show_variant_labels": true,
-            "picker_type": "button",
-            "enable_color_swatches": true,
-            "swatches_source": "file",
-            "swatch_type": "round",
-            "enable_swatch_cross": true,
-            "enable_swatch_unavailable_click": false,
-            "size_chart": ""
-          }
-        },
-        "buy_buttons_jtWcw8": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_quantity_selector": true,
-            "show_dynamic_checkout": false,
-            "show_gift_card_recipient": false
-          }
-        }
-      },
-      "block_order": [
-        "title_7PbUaC",
-        "rating_AN8Hkq",
-        "price_7c3cKU",
-        "custom_liquid_9wDUPc",
-        "variant_picker_txHV9a",
-        "buy_buttons_jtWcw8"
-      ],
-      "name": "t:sections.featured-product.presets.name",
-      "settings": {
-        "product": "lanbena-nose-pore-strips",
-        "layout": "media_first",
-        "full_width": false,
-        "show_divider": false,
-        "show_featured_media": false,
-        "hide_variants": false,
-        "enable_image_zoom": false,
-        "enable_video_looping": false,
-        "image_ratio": "adapt_first",
-        "image_position": "center center",
-        "enable_layered_images": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "scrolling_promotion_gqQrxK": {
       "type": "scrolling-promotion",
       "blocks": {
@@ -165,6 +88,36 @@
         "gradient_background": "",
         "padding_top": 20,
         "padding_bottom": 20
+      }
+    },
+    "featured_collection_BhJ99M": {
+      "type": "featured-collection",
+      "name": "t:sections.featured-collection.presets.name",
+      "settings": {
+        "collection": "custom-collection",
+        "products_to_show": 4,
+        "horizontal_scroll": false,
+        "show_view_all": true,
+        "show_divider": false,
+        "heading": "Featured collection",
+        "heading_size": "h1",
+        "heading_alignment": "left",
+        "heading_tag": "h2",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "image_ratio": "adapt",
+        "image_position": "center center",
+        "enable_image_fill": true,
+        "show_secondary_image": false,
+        "secondary_image_max": 1,
+        "show_vendor": false,
+        "show_rating": false,
+        "show_quick_buy": true,
+        "enable_quick_view": true,
+        "enable_color_swatches": true,
+        "enable_countdown": true,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "rich_text_iPTEGL": {
@@ -349,8 +302,8 @@
   },
   "order": [
     "slideshow",
-    "featured_product_RCYCaB",
     "scrolling_promotion_gqQrxK",
+    "featured_collection_BhJ99M",
     "rich_text_iPTEGL",
     "scrolling_promotion_yJEgih",
     "faq_VkHiGm",

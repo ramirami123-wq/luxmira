@@ -36,8 +36,8 @@
         "show_navigation": true,
         "direction": "left",
         "speed": 1.6,
-        "colors_text": "#000000",
-        "colors_background": "#cb572a",
+        "colors_text": "#ffffff",
+        "colors_background": "#cc5a9f",
         "gradient_background": "",
         "padding_top": 0,
         "padding_bottom": 0

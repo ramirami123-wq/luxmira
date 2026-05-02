@@ -54,7 +54,7 @@
         "custom_liquid_H9DXEK": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<div style=\"padding: 12px; text-align: left; background-color: #f9f9f9; font-size: 15px; border-radius: 12px; margin-top: 10px; margin-bottom: 10px; line-height: 1.6;\">\n\n<span style=\"font-weight: bold;\">✨ Cordless & Rechargeable</span> – Style your hair anywhere without needing an outlet.<br><br>\n\n<span style=\"font-weight: bold;\">🔥 Fast, Even Heating</span> –  Advanced ceramic technology smooths hair quickly with less frizz.<br><br>\n\n<span style=\"font-weight: bold;\">🌡️ Adjustable Heat Settings</span> – Suitable for fine, thick, curly, or treated hair.<br><br>\n\n<span style=\"font-weight: bold;\">💫 Smooth, Tangle-Free Results</span> –  Glides gently through hair for a sleek, shiny finish.\n\n</div>"
+            "custom_liquid": "<div style=\"padding: 12px; text-align: left; background-color: #f9f9f9; font-size: 15px; border-radius: 12px; margin-top: 10px; margin-bottom: 10px; line-height: 1.6;\">\n\n<span style=\"font-weight: bold;\">💧 Deep Hydration Boost</span> – Infused with hydrolyzed collagen to deliver intense, long-lasting moisture.<br><br>\n\n<span style=\"font-weight: bold;\">✨ Brightening Care</span> – Niacinamide helps improve skin tone and enhances natural glow.<br><br>\n\n<span style=\"font-weight: bold;\">🧴 Lightweight Jelly Texture</span> – Absorbs quickly without stickiness, leaving skin soft and fresh.<br><br>\n\n<span style=\"font-weight: bold;\">🌟 24H Glow Effect</span> – Strengthens skin barrier for smooth, radiant-looking skin all day.\n\n</div>"
           }
         },
         "variant_picker": {
@@ -142,6 +142,7 @@
     },
     "product-recommendations": {
       "type": "product-recommendations",
+      "disabled": true,
       "settings": {
         "product_list_limit": 4,
         "show_divider": false,
@@ -183,7 +184,7 @@
             "icon": "none",
             "icon_size": "medium",
             "custom_icon": "",
-            "text": "Glow with confidence, every single day",
+            "text": "Glow deeper, shine brighter.",
             "text_size": 20,
             "link": ""
           }
@@ -212,7 +213,7 @@
         "heading_j8Cddf": {
           "type": "heading",
           "settings": {
-            "heading": "Effortless Beauty Starts Here",
+            "heading": "Deep Hydration & Glow",
             "heading_size": "h1",
             "heading_tag": "h2"
           }
@@ -220,7 +221,7 @@
         "text_ybUped": {
           "type": "text",
           "settings": {
-            "text": "<p><br/>Achieve clearer, smoother skin with a simple routine designed to work. Our products help remove impurities and bring out your natural glow—no complications, just results.<br/><br/></p>",
+            "text": "<p>Experience intense moisture with collagen-infused care that leaves your skin soft, plump, and naturally radiant all day.</p><p></p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -232,7 +233,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/1763644758_php60l2cks9u2jicnb9vYg.webp",
+        "image": "shopify://shop_images/1775054656_phpk5fjmsi8rkkrfyK48pC.jpg",
         "image_position": "center center",
         "layout": "image_first",
         "text_box_position": "middle",
@@ -246,6 +247,7 @@
         "mobile_text_alignment": "left",
         "mobile_image_ratio": "auto",
         "enable_video_looping": false,
+        "video_url": "",
         "use_custom_colors": false,
         "colors_button_label": "#ffffff",
         "colors_button_background": "#1a1b18",
@@ -265,7 +267,7 @@
             "icon": "none",
             "icon_size": "medium",
             "custom_icon": "",
-            "text": "Simple skincare, real results",
+            "text": "Hydrated skin is happy skin",
             "text_size": 20,
             "link": ""
           }
@@ -294,7 +296,7 @@
         "heading_JdC8z9": {
           "type": "heading",
           "settings": {
-            "heading": "Confidence in Every Glow",
+            "heading": "Lightweight Yet Powerful Care",
             "heading_size": "h1",
             "heading_tag": "h2"
           }
@@ -302,7 +304,7 @@
         "text_7gHkKr": {
           "type": "text",
           "settings": {
-            "text": "<p><br/>Healthy skin is the foundation of confidence. We create skincare that supports your skin’s balance, leaving it fresh, refined, and visibly radiant.<br/><br/></p>",
+            "text": "<p>This fast-absorbing jelly cream nourishes your skin without heaviness, helping improve texture and boost a healthy glow.</p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -314,7 +316,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/1763644758_php3arat3pg38ltcoBTDGm.png",
+        "image": "shopify://shop_images/1775054723_phpnelau3b4851c7MPO3ZN.jpg",
         "image_position": "center center",
         "layout": "image_first",
         "text_box_position": "middle",
@@ -328,6 +330,7 @@
         "mobile_text_alignment": "left",
         "mobile_image_ratio": "auto",
         "enable_video_looping": false,
+        "video_url": "",
         "use_custom_colors": false,
         "colors_button_label": "#ffffff",
         "colors_button_background": "#1a1b18",
@@ -345,20 +348,20 @@
           "type": "ai_gen_block_c856904",
           "settings": {
             "header_col_1": "Feature",
-            "header_col_2": "Benefit",
-            "header_col_3": "Details",
-            "row_1_col_1": "Deep Cleaning",
-            "row_1_col_2": "Removes dirt and blackheads from deep inside pores",
-            "row_1_col_3": "Only cleans the surface",
-            "row_2_col_1": "Oil Control",
-            "row_2_col_2": "Balances oil without drying the skin",
-            "row_2_col_3": "Can leave skin dry or greasy",
-            "row_3_col_1": "Results",
-            "row_3_col_2": "Visible smoother and clearer skin",
-            "row_3_col_3": "Minimal or slow results",
-            "row_4_col_1": "Skin Feel",
-            "row_4_col_2": "Soft, fresh, and refined",
-            "row_4_col_3": "Tight or irritated feeling",
+            "header_col_2": "us",
+            "header_col_3": "others",
+            "row_1_col_1": "Hydration Duration",
+            "row_1_col_2": "24-hour deep hydration",
+            "row_1_col_3": "Short-lasting moisture",
+            "row_2_col_1": "Texture",
+            "row_2_col_2": "Lightweight jelly, non-sticky",
+            "row_2_col_3": "Heavy or greasy creams",
+            "row_3_col_1": "Absorption",
+            "row_3_col_2": "Fast-absorbing",
+            "row_3_col_3": "Slow, leaves residue",
+            "row_4_col_1": "Skin Barrier Support",
+            "row_4_col_2": "Strengthens & protects",
+            "row_4_col_3": "Weak or no barrier support",
             "header_background": "#cc5a9f",
             "header_text_color": "#ffffff",
             "row_odd_background": "#f3f3f3",
@@ -389,36 +392,36 @@
         "question_WwNaBA": {
           "type": "question",
           "settings": {
-            "title": "Is this product safe to use?",
-            "text": "<p>Yes, our formula is designed to be gentle and safe for regular use. We recommend doing a patch test before full application</p>"
+            "title": "What skin types is this suitable for?",
+            "text": "<p>This jelly cream is designed for all skin types, including dry, oily, combination, and sensitive skin.</p>"
           }
         },
         "question_BENUhP": {
           "type": "question",
           "settings": {
-            "title": "Frequently askedHow do I use the peel-off mask?",
-            "text": "<p>Apply an even layer on clean, dry skin, leave it on until fully dry, then gently peel it off and rinse any residue.</p>"
+            "title": "How often should I use it?",
+            "text": "<p>You can use it twice daily—morning and night—for best results.</p>"
           }
         },
         "question_enwthq": {
           "type": "question",
           "settings": {
-            "title": "How often should I use it?",
-            "text": "<p>For best results, use 1–2 times per week.</p>"
+            "title": "Will it feel sticky or heavy on my skin?",
+            "text": "<p>No, the lightweight jelly texture absorbs quickly without leaving any greasy or sticky residue.</p>"
           }
         },
         "question_Wbejg8": {
           "type": "question",
           "settings": {
-            "title": "Does it really remove blackheads?",
-            "text": "<p>Yes, it helps lift away blackheads, dirt, and excess oil, leaving your skin clearer and smoother.</p>"
+            "title": "Can I use it with other skincare products?",
+            "text": "<p>Yes, it works well with your existing routine and can be layered with serums and sunscreen.</p>"
           }
         },
         "question_jLRcE6": {
           "type": "question",
           "settings": {
-            "title": "Is it suitable for all skin types?",
-            "text": "<p>It works for most skin types. If you have sensitive skin, test a small area first.</p>"
+            "title": "Is it safe for sensitive skin?",
+            "text": "<p>Yes, it is formulated to be gentle, but we always recommend a patch test before full use.</p>"
           }
         }
       },

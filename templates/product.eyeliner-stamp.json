@@ -54,7 +54,7 @@
         "custom_liquid_H9DXEK": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<div style=\"padding: 12px; text-align: left; background-color: #f9f9f9; font-size: 15px; border-radius: 12px; margin-top: 10px; margin-bottom: 10px; line-height: 1.6;\">\n\n<span style=\"font-weight: bold;\">✨ Cordless & Rechargeable</span> – Style your hair anywhere without needing an outlet.<br><br>\n\n<span style=\"font-weight: bold;\">🔥 Fast, Even Heating</span> –  Advanced ceramic technology smooths hair quickly with less frizz.<br><br>\n\n<span style=\"font-weight: bold;\">🌡️ Adjustable Heat Settings</span> – Suitable for fine, thick, curly, or treated hair.<br><br>\n\n<span style=\"font-weight: bold;\">💫 Smooth, Tangle-Free Results</span> –  Glides gently through hair for a sleek, shiny finish.\n\n</div>"
+            "custom_liquid": "<div style=\"padding: 12px; text-align: left; background-color: #f9f9f9; font-size: 15px; border-radius: 12px; margin-top: 10px; margin-bottom: 10px; line-height: 1.6;\">\n\n<span style=\"font-weight: bold;\">✨ Perfect Wing in Seconds</span> – Easily create sharp, symmetrical winged eyeliner with the stamp design.<br><br>\n\n<span style=\"font-weight: bold;\">🖊️ Dual-Ended Design</span> – Stamp on one side and precision liner on the other for a complete eye look.<br><br>\n\n<span style=\"font-weight: bold;\">💧 Smudge-Proof & Long-Lasting</span> – Stays in place all day without fading or smearing.<br><br>\n\n<span style=\"font-weight: bold;\">🎯 Beginner-Friendly</span> – No skills needed—achieve flawless eyeliner quickly and effortlessly.\n\n</div>"
           }
         },
         "variant_picker": {
@@ -96,14 +96,6 @@
           "settings": {
             "show_quantity_selector": false
           }
-        },
-        "collapsible_description_mFEEde": {
-          "type": "collapsible_description",
-          "settings": {
-            "icon": "heart",
-            "heading": "Description",
-            "keep_open": false
-          }
         }
       },
       "block_order": [
@@ -117,8 +109,7 @@
         "buy_buttons",
         "custom_liquid_wbDEGx",
         "related_buttons",
-        "sticky_cart",
-        "collapsible_description_mFEEde"
+        "sticky_cart"
       ],
       "custom_css": [
         ".product-form__submit {animation: shopifyshake 4s; animation-iteration-count: infinite;}"
@@ -142,6 +133,7 @@
     },
     "product-recommendations": {
       "type": "product-recommendations",
+      "disabled": true,
       "settings": {
         "product_list_limit": 4,
         "show_divider": false,
@@ -183,7 +175,7 @@
             "icon": "none",
             "icon_size": "medium",
             "custom_icon": "",
-            "text": "Glow with confidence, every single day",
+            "text": "Stamp it. Line it. Slay it",
             "text_size": 20,
             "link": ""
           }
@@ -212,7 +204,7 @@
         "heading_j8Cddf": {
           "type": "heading",
           "settings": {
-            "heading": "Effortless Beauty Starts Here",
+            "heading": "Perfect Wings Made Easy",
             "heading_size": "h1",
             "heading_tag": "h2"
           }
@@ -220,7 +212,7 @@
         "text_ybUped": {
           "type": "text",
           "settings": {
-            "text": "<p><br/>Achieve clearer, smoother skin with a simple routine designed to work. Our products help remove impurities and bring out your natural glow—no complications, just results.<br/><br/></p>",
+            "text": "<p><br/>Create sharp, symmetrical winged eyeliner in seconds with the easy-to-use stamp and liner combo—no skills required.<br/><br/></p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -232,7 +224,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/1763644758_php60l2cks9u2jicnb9vYg.webp",
+        "image": "shopify://shop_images/1774869550_phpjscqrjscd205828KC39.jpg",
         "image_position": "center center",
         "layout": "image_first",
         "text_box_position": "middle",
@@ -246,6 +238,7 @@
         "mobile_text_alignment": "left",
         "mobile_image_ratio": "auto",
         "enable_video_looping": false,
+        "video_url": "",
         "use_custom_colors": false,
         "colors_button_label": "#ffffff",
         "colors_button_background": "#1a1b18",
@@ -265,7 +258,7 @@
             "icon": "none",
             "icon_size": "medium",
             "custom_icon": "",
-            "text": "Simple skincare, real results",
+            "text": "Perfect wings, zero effort.",
             "text_size": 20,
             "link": ""
           }
@@ -294,7 +287,7 @@
         "heading_JdC8z9": {
           "type": "heading",
           "settings": {
-            "heading": "Confidence in Every Glow",
+            "heading": "Long-Lasting, Smudge-Free Look",
             "heading_size": "h1",
             "heading_tag": "h2"
           }
@@ -302,7 +295,7 @@
         "text_7gHkKr": {
           "type": "text",
           "settings": {
-            "text": "<p><br/>Healthy skin is the foundation of confidence. We create skincare that supports your skin’s balance, leaving it fresh, refined, and visibly radiant.<br/><br/></p>",
+            "text": "<p>Enjoy bold, precise lines that stay in place all day without smudging, fading, or needing touch-ups.</p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -314,7 +307,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/1763644758_php3arat3pg38ltcoBTDGm.png",
+        "image": "shopify://shop_images/1774869550_php0ns05jghspge1GLnfg2.jpg",
         "image_position": "center center",
         "layout": "image_first",
         "text_box_position": "middle",
@@ -328,6 +321,7 @@
         "mobile_text_alignment": "left",
         "mobile_image_ratio": "auto",
         "enable_video_looping": false,
+        "video_url": "",
         "use_custom_colors": false,
         "colors_button_label": "#ffffff",
         "colors_button_background": "#1a1b18",
@@ -345,20 +339,20 @@
           "type": "ai_gen_block_c856904",
           "settings": {
             "header_col_1": "Feature",
-            "header_col_2": "Benefit",
-            "header_col_3": "Details",
-            "row_1_col_1": "Deep Cleaning",
-            "row_1_col_2": "Removes dirt and blackheads from deep inside pores",
-            "row_1_col_3": "Only cleans the surface",
-            "row_2_col_1": "Oil Control",
-            "row_2_col_2": "Balances oil without drying the skin",
-            "row_2_col_3": "Can leave skin dry or greasy",
-            "row_3_col_1": "Results",
-            "row_3_col_2": "Visible smoother and clearer skin",
-            "row_3_col_3": "Minimal or slow results",
-            "row_4_col_1": "Skin Feel",
-            "row_4_col_2": "Soft, fresh, and refined",
-            "row_4_col_3": "Tight or irritated feeling",
+            "header_col_2": "us",
+            "header_col_3": "others",
+            "row_1_col_1": "Ease of Use",
+            "row_1_col_2": "Stamp + line in seconds",
+            "row_1_col_3": "Requires skill & precision",
+            "row_2_col_1": "Wing Symmetry",
+            "row_2_col_2": "Perfect, even wings every time",
+            "row_2_col_3": "Uneven or mismatched wings",
+            "row_3_col_1": "Design",
+            "row_3_col_2": "Dual-ended (stamp + liner)",
+            "row_3_col_3": "Single-tip only",
+            "row_4_col_1": "Time Saving",
+            "row_4_col_2": "Quick, effortless application",
+            "row_4_col_3": "Time-consuming process",
             "header_background": "#cc5a9f",
             "header_text_color": "#ffffff",
             "row_odd_background": "#f3f3f3",
@@ -389,36 +383,36 @@
         "question_WwNaBA": {
           "type": "question",
           "settings": {
-            "title": "Is this product safe to use?",
-            "text": "<p>Yes, our formula is designed to be gentle and safe for regular use. We recommend doing a patch test before full application</p>"
+            "title": "Is this suitable for beginners?",
+            "text": "<p>Yes! The stamp design makes it super easy to create perfect wings, even if you have no experience with eyeliner.</p>"
           }
         },
         "question_BENUhP": {
           "type": "question",
           "settings": {
-            "title": "Frequently askedHow do I use the peel-off mask?",
-            "text": "<p>Apply an even layer on clean, dry skin, leave it on until fully dry, then gently peel it off and rinse any residue.</p>"
+            "title": "How does the stamp work?",
+            "text": "<p>Simply press the stamp on the outer corner of your eye, then use the liner side to connect and complete the look.</p>"
           }
         },
         "question_enwthq": {
           "type": "question",
           "settings": {
-            "title": "How often should I use it?",
-            "text": "<p>For best results, use 1–2 times per week.</p>"
+            "title": "Is it smudge-proof and waterproof?",
+            "text": "<p>Yes, the formula is long-lasting and designed to resist smudging and fading throughout the day.</p>"
           }
         },
         "question_Wbejg8": {
           "type": "question",
           "settings": {
-            "title": "Does it really remove blackheads?",
-            "text": "<p>Yes, it helps lift away blackheads, dirt, and excess oil, leaving your skin clearer and smoother.</p>"
+            "title": "Will it work on all eye shapes?",
+            "text": "<p>Absolutely! The design helps create balanced wings that can be adjusted to suit any eye shape.</p>"
           }
         },
         "question_jLRcE6": {
           "type": "question",
           "settings": {
-            "title": "Is it suitable for all skin types?",
-            "text": "<p>It works for most skin types. If you have sensitive skin, test a small area first.</p>"
+            "title": "Is it safe for sensitive eyes?",
+            "text": "<p>It’s generally gentle, but if you have very sensitive skin or eyes, we recommend doing a patch test first.</p>"
           }
         }
       },

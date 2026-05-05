@@ -16,6 +16,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/1775992806_IMG_3206_2.png",
+            "image_mobile": "shopify://shop_images/youre-removebg-preview.png",
             "image_position": "center center",
             "text_box_position": "bottom-right",
             "subheading": "",

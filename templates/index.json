@@ -204,7 +204,7 @@
           "type": "question",
           "settings": {
             "title": "Are your products safe to use?",
-            "text": "<p>Yes, our products are made with carefully selected ingredients and are safe for regular use. We recommend doing a patch test before full application.</p>"
+            "text": "<p>Yes, our products are made with carefully selected ingredients and are safe for regular use.</p>"
           }
         },
         "question_J4a6eU": {

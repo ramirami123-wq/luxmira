@@ -185,7 +185,7 @@
       ],
       "name": "t:sections.scrolling-promotion.presets.name",
       "settings": {
-        "direction": "left",
+        "direction": "right",
         "speed": 1.6,
         "show_divider": false,
         "use_custom_colors": true,
@@ -207,11 +207,11 @@
             "text": "<p>Yes, our products are made with carefully selected ingredients and are safe for regular use.</p>"
           }
         },
-        "question_J4a6eU": {
+        "question_wb9mWJ": {
           "type": "question",
           "settings": {
-            "title": "Do you offer Cash on Delivery?",
-            "text": "<p>Yes, we offer Cash on Delivery for your convenience. You can pay when your order arrives.</p>"
+            "title": "Can I use the product on sensitive skin?",
+            "text": "<p>Our products are designed to be gentle, but if you have sensitive skin, we recommend testing a small area first.</p>"
           }
         },
         "question_YmRBPG": {
@@ -224,14 +224,14 @@
         "question_9WMfD8": {
           "type": "question",
           "settings": {
-            "title": "Can I use the product on sensitive skin?",
-            "text": "<p>Our products are designed to be gentle, but if you have sensitive skin, we recommend testing a small area first.</p>"
+            "title": "Do you offer Cash on Delivery?",
+            "text": "<p>Yes, we offer Cash on Delivery for your convenience. You can pay when your order arrives.</p>"
           }
         }
       },
       "block_order": [
         "question_yNkDQY",
-        "question_J4a6eU",
+        "question_wb9mWJ",
         "question_YmRBPG",
         "question_9WMfD8"
       ],
